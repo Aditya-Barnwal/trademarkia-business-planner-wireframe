@@ -52,7 +52,3 @@ This wireframe serves as a starting point for the Trademarkia Business Planner i
 ## Feedback and Contributions
 
 Feedback and contributions are welcome. Please open an issue or submit a pull request if you have suggestions for improvements.
-
-## License
-
-[Include your chosen license here]
